@@ -1,10 +1,16 @@
-# exam-repository-flutter
-Database va Firebase bilan bog'langan app. 
-# App dan ba'zi lavhalar
-<a href="https://ibb.co/yV3hKwd"><img src="https://i.ibb.co/JChx8fm/4.jpg" alt="4" border="0"></a>
-<a href="https://ibb.co/QHvZm8V"><img src="https://i.ibb.co/T0MZhKG/2.jpg" alt="2" border="0"></a>
-<a href="https://ibb.co/1qF9RVB"><img src="https://i.ibb.co/VSfvMyb/3.jpg" alt="3" border="0"></a>
-<a href="https://ibb.co/Hq93WFH"><img src="https://i.ibb.co/2dpHDnk/1.jpg" alt="1" border="0"></a>
-<a href="https://ibb.co/KXF2CbC"><img src="https://i.ibb.co/c1D6zkz/5.jpg" alt="5" border="0"></a>
-<br>
-<img class="media__image" data-src="https://i.makeagif.com/media/8-11-2021/Lo67fy.gif" width="auto" height="432" src="https://i.makeagif.com/media/8-11-2021/Lo67fy.gif">
+# exam_db_firebase
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
