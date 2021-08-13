@@ -1,16 +1,10 @@
 # exam_db_firebase
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Firebase orqali autifentikatsiyalanadigan, ma'lumoitlarni local databaseda saqlaydigan app.
+Appdan ba'zi lavhalar:
+<a href="https://ibb.co/ZS6YDgy"><img src="https://i.ibb.co/tzMxr2y/1.jpg" alt="1" border="0"></a>
+<a href="https://ibb.co/hdXYfGb"><img src="https://i.ibb.co/pKWhyHc/2.jpg" alt="2" border="0"></a>
+<a href="https://ibb.co/GcwfsXy"><img src="https://i.ibb.co/nz2q3T9/4.jpg" alt="4" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>in the image of</a><br />
+<a href="https://ibb.co/PcMc6Cr"><img src="https://i.ibb.co/sKCKV3g/3.jpg" alt="3" border="0"></a>
+Appda foydalanilgan packagelar:
+<a href="https://ibb.co/myb97QB"><img src="https://i.ibb.co/ykd6JLR/5.jpg" alt="5" border="0"></a>
